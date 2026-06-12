@@ -3,6 +3,7 @@
 ### 🛠 Sobre mim
 - 🎓 **Estudante de Engenharia de Software** na PUC Minas (2024 - 2028).
 - 💻 **Desenvolvedor Back-End** com foco em Java, Spring Boot e bancos de dados.
+-  🎮 **Nas horas vagas:** Curto bastante jogar video games, assistir e jogar futebol e basquete.
 - 🚀 **Experiência prática** em sistemas corporativos, manutenção de bases de dados e automação de testes (IHM Estágio).
 - 🎯 **Objetivo:** Buscando oportunidade de estágio ou posição júnior para aplicar e evoluir minhas habilidades.
 
