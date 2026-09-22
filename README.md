@@ -1,4 +1,4 @@
-#  OLÁ, EU SOU O MANOEL NETO!
+#  Olá, eu sou Manoel Neto! 👋
 ## 🚀 Sobre Mim
 
 - 🎓 Estudante de Engenharia de Software na PUC Minas (2024 – 2028)
