@@ -1,25 +1,14 @@
-# Olá, sou o Manoel Neto! 👋
+ #Olá, eu sou o Manoel Neto! 👋
 
-<h2>🛠️ Sobre Mim</h2>
+## 🚀 Sobre Mim
 
-<ul>
-    <li>🎓 Estudante de Engenharia de Software na PUC Minas (2024 - 2028).</li>
-
-    <li>💻 Interesse em Infraestrutura de TI, Linux, Servidores, Redes, Storage, Virtualização e Automação.</li>
-
-    <li>🏢 Experiência profissional:
-        <ul>
-            <li>Estagiário de Infraestrutura de Projetos na ArcelorMittal Sistemas.</li>
-            <li>Experiência anterior na IHM Engenharia, atuando com sistemas corporativos, bancos de dados, testes e suporte técnico.</li>
-        </ul>
-    </li>
-
-    <li>📚 Apoio a projetos de infraestrutura, documentação técnica e padronização de processos.</li>
-
-    <li>🎮 Nas horas vagas gosto de jogar videogame, assistir futebol e acompanhar partidas de basquete.</li>
-
-    <li>🎯 Objetivo: conquistar uma oportunidade de estágio ou posição júnior para desenvolver minhas habilidades em Tecnologia da Informação e Engenharia de Software.</li>
-</ul>
+- 🎓 Estudante de Engenharia de Software na PUC Minas (2024 – 2028)
+- 💻 Interesse em Infraestrutura de TI, Linux, Servidores, Redes, Storage, Virtualização e Automação
+- 🏢 Atualmente atuando como Estagiário de Infraestrutura de Projetos na ArcelorMittal Sistemas
+- 📚 Experiência com documentação técnica, padronização de processos e apoio a projetos de infraestrutura
+- 🔧 Experiência anterior na IHM Engenharia, trabalhando com sistemas corporativos, banco de dados, testes e suporte técnico
+- 🎮 Nas horas vagas gosto de jogar videogame, assistir futebol e acompanhar partidas de basquete
+- 🎯 Em busca de oportunidades de estágio e posições júnior na área de Tecnologia da Informação
 
 ---
 
