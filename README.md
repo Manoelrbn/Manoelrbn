@@ -3,12 +3,10 @@
 ## 🚀 Sobre Mim
 
 - 🎓 Estudante de Engenharia de Software na PUC Minas (2024 – 2028)
-- 💻 Interesse em Infraestrutura de TI, Linux, Servidores, Redes, Storage, Virtualização e Automação
 - 🏢 Atualmente atuando como Estagiário de Infraestrutura de Projetos na ArcelorMittal Sistemas
 - 📚 Experiência com documentação técnica, padronização de processos e apoio a projetos de infraestrutura
 - 🔧 Experiência anterior na IHM Engenharia, trabalhando com sistemas corporativos, banco de dados, testes e suporte técnico
 - 🎮 Nas horas vagas gosto de jogar videogame, assistir futebol e acompanhar partidas de basquete
-- 🎯 Em busca de oportunidades de estágio e posições júnior na área de Tecnologia da Informação
 
 ---
 
