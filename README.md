@@ -2,8 +2,7 @@
 
 ### 🛠 Sobre mim
 - 🎓 **Estudante de Engenharia de Software** na PUC Minas (2024 - 2028).
--💻 **Infraestrutura de TI** | Linux • Servidores • Redes • Storage • Virtualização • Automação
-Apoio a projetos de infraestrutura, documentação e padronização de procedimentos técnicos.
+-💻 **Infraestrutura de TI** | Linux • Servidores • Redes • Storage • Virtualização • Automação Apoio a projetos de infraestrutura, documentação e padronização de procedimentos técnicos.
 -  🎮 **Nas horas vagas:** Curto bastante jogar video games, assistir e jogar futebol e basquete.
 - 🚀 **Experiência prática** em sistemas corporativos, manutenção de bases de dados e automação de testes (IHM Estágio).
 - 🎯 **Objetivo:** Buscando oportunidade de estágio ou posição júnior para aplicar e evoluir minhas habilidades.
